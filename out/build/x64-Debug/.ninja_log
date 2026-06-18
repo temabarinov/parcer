@@ -1,0 +1,7 @@
+# ninja log v7
+3	603	8035175666651451	CMakeFiles/iniParser.dir/src/iniparcer.cpp.obj	13da57f80a6d944c
+44	641	8035175667061690	CMakeFiles/ini_parser.dir/src/main.cpp.obj	585aa69ea531e268
+611	743	8035175672724435	iniParser.lib	b6e7ef56127bb722
+743	1457	8035175674047813	ini_parser.exe	847c259d9df10c4a
+3	578	8035175776353478	CMakeFiles/ini_parser.dir/src/main.cpp.obj	585aa69ea531e268
+580	959	8035175782118499	ini_parser.exe	847c259d9df10c4a
