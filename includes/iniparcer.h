@@ -1,20 +1,16 @@
 #pragma once
-#include <iostream>
-#include <vector>
-#include <locale>
-#include <string>
-#include <Windows.h>
-#include <cmath>
 #include <algorithm>
-#include <map>
-#include <set>
-#include <fstream>
-#include <memory>
+#include <cmath>
 #include <exception>
-
-
+#include <fstream>
+#include <iostream>
+#include <locale>
+#include <map>
+#include <memory>
+#include <set>
+#include <string>
+#include <vector>
 
 class parcer {
 public:
-
 };

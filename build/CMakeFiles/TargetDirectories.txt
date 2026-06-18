@@ -1,4 +1,4 @@
-C:/Users/User/Desktop/parcer/build/CMakeFiles/iniParser.dir
-C:/Users/User/Desktop/parcer/build/CMakeFiles/ini_parser.dir
-C:/Users/User/Desktop/parcer/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/User/Desktop/parcer/build/CMakeFiles/ZERO_CHECK.dir
+/Users/artembarinov61icloud.com/Desktop/parcer/build/CMakeFiles/iniParser.dir
+/Users/artembarinov61icloud.com/Desktop/parcer/build/CMakeFiles/ini_parser.dir
+/Users/artembarinov61icloud.com/Desktop/parcer/build/CMakeFiles/edit_cache.dir
+/Users/artembarinov61icloud.com/Desktop/parcer/build/CMakeFiles/rebuild_cache.dir
