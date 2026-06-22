@@ -1,2 +1,21 @@
-build/
-out/
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Бинарники
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.so
+*.dylib
+
+# macOS системные файлы
+.DS_Store
+
+# Игнорируем временные файлы редактора
+*~
+*.swp
